@@ -196,6 +196,14 @@
 
 /* REPSONES */
 
+@media(max-width:1485px)
+{
+    .logo{
+        flex-basis: 40%;
+    }
+}
+
+
 @media(max-width:1332px){
 
     #header{
