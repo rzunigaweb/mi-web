@@ -270,3 +270,10 @@
         margin-right: 5px;
     }
 }
+
+@media(max-width:471px){
+    #aside {
+     
+        margin-top: 40px;
+    }
+}
