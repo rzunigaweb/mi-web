@@ -215,11 +215,15 @@
         align-items: flex-start;
         justify-content: space-evenly;       
     }
+    .logo{
+        flex-basis: 100%;
+    }
 
 }
 
 @media(max-width:724px){
 
+   
     #content{
         display: flex;
         flex-wrap: wrap;
