@@ -1,0 +1,30 @@
+{
+  "name": "api-res-node.js",
+  "version": "1.0.0",
+  "description": "Api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rzunigaweb/mi-web.git"
+  },
+  "author": "Roby Zuñiga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rzunigaweb/mi-web/issues"
+  },
+  "homepage": "https://github.com/rzunigaweb/mi-web#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
